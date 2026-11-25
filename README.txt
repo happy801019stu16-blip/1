@@ -1,0 +1,1 @@
+免費部署：登入 GitHub，建立公開 repository，將本資料夾內的檔案全部上傳至 main 分支根目錄。Settings > Pages > Deploy from a branch > main / (root) > Save。等待網站網址出現。iPhone 用 Safari 開啟網址，分享 > 加入主畫面；Android 用 Chrome 開啟，選單 > 安裝應用程式或加入主畫面。首次需連網完成快取，再測試飛航模式。index.html 可在電腦直接開啟試算，但 file 模式不支援 PWA 安裝與 service worker。紀錄只存本機，請匯出備份。不要將案件紀錄上傳公開 repository。
